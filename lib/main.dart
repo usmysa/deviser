@@ -67,8 +67,8 @@ class _TopPageState extends State<TopPage> {
             child: Padding(
               padding: EdgeInsets.only(top: 100.0),
               child: Text(
-                'アプリ名は未定',
-                style: TextStyle(fontSize: 40.0, color: Colors.grey[300], fontWeight: FontWeight.bold),
+                'Deviser',
+                style: TextStyle(fontSize: 60.0, color: Colors.grey[300], fontWeight: FontWeight.bold),
               ),
             )
           ),
